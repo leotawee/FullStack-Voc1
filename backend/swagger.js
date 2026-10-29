@@ -260,7 +260,7 @@ function generateSpec(lang = "en") {
     },
     externalDocs: {
       description: t.externalDocs,
-      url: "https://github.com/VacTuzX-dot/013-backend",
+      url: "https://github.com/leotawee/013-backend",
     },
     servers: [
       {

@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="col-md-4 text-center mb-3 mb-md-0">
             <div className="d-flex justify-content-center gap-3">
               <a
-                href="https://github.com/vactuzx-dot"
+                href="https://github.com/leotawee"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-dark"
@@ -20,7 +20,7 @@ export default function Footer() {
                 <i className="bi bi-github fs-5"></i>
               </a>
               <a
-                href="https://facebook.com/vactuz"
+                href="https://facebook.com/leotawee"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-dark"
